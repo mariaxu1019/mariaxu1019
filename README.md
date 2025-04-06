@@ -1,17 +1,16 @@
 # Hi, I'm Maria ✨
-I'm an EECS student at UC Berkeley passionate about building intelligent, scalable systems that make a real impact.
-🔍 Incoming AI Research Intern @ DoorDash Launchpad
+I'm a senior EECS student at UC Berkeley interested in building intelligent, scalable systems that make a real impact. Looking for full-time new grad roles in software engineering! </br>
+<br/>
+🔍 AI Research Intern @ DoorDash Launchpad (Summer 2025)</br>
 🌱 Currently exploring: genAI, RAG, & production-ready ML infra
 
-# Repos 📁
+# 📁 Repos 
 |Repository|Description|Language|
 |--|-------------------|--|
-|[FlipZero Payloads](https://github.com/bst04/payloads_flipperZero)|A recopilation of some payloads for Flipper Zero with BadKB. |DuckyScript™ 1|
-|[myrubberducky-shits](https://github.com/bst04/myrubberducky-shits)|USB Rubber Ducky - Payloads recopilation. |DuckyScript™ 3|
-|[CyberSources](https://github.com/bst04/cybersources)| Tools, Resources and Learning for cybersecurity path.|README.md|
-|[tools-for-data-recovery](https://github.com/bst04/tools-for-data-recovery)|All tools for Data Recovery |README.md|
-|[Hack By Steps](https://github.com/bst04/HackBySteps)| Learn to hack everything step by step.|GitBook|
-|[Guias Para Servers](https://bst04s.gitbook.io/guias-para-servers) | Spanish Guides of diferent services on servers. |GitBook|
+|[Smart Attendance](https://github.com/mariaxu1019/FaceRecognitionProject)| Auto-attendance taking system via face recognition |Python (OpenCV)|
+|[Regulus](https://github.com/mariaxu1019/regulus)| Secure file sharing system via cryptography |Go|
+|[Healium](https://github.com/mariaxu1019/Healium)|On-chain hospital billing app |Javascript, Solidity, HTML, CSS|
+|[Interactive Aquarium](https://github.com/mariaxu1019/art173_final)| Gesture-based interactive aquarium with real-time response to movement |Javascript (Mediapipe, Toxiclibs)|
 
 
 # 💻 Tech Stack:
