@@ -1,4 +1,8 @@
-# Hi, I'm Maria
+# Hi, I'm Maria ✨
+I'm an EECS student at UC Berkeley passionate about building intelligent, scalable systems that make a real impact.
+🔍 Incoming AI Research Intern @ DoorDash Launchpad
+🌱 Currently exploring: genAI, RAG, & production-ready ML infra
+
 # Repos 📁
 |Repository|Description|Language|
 |--|-------------------|--|
