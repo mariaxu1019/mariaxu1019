@@ -1,5 +1,5 @@
 # Hi, I'm Maria ✨
-I'm an EECS student at UC Berkeley interested in building intelligent, scalable systems that make a real impact. Looking for full-time new grad roles in software engineering! </br>
+I'm an EECS student at UC Berkeley interested in building intelligent, scalable systems that make a real impact. Looking for fall 2025 co-ops or full-time new grad roles in software engineering! </br>
 <br/>
 🔍 AI Research Intern @ DoorDash Launchpad (Summer 2025)</br>
 🌱 Currently exploring: genAI, RAG, & production-ready ML infra
