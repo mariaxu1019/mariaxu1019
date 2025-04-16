@@ -11,7 +11,7 @@ I'm an EECS student at UC Berkeley interested in building intelligent, scalable 
 |[Smart Attendance](https://github.com/mariaxu1019/smartAttendance)| Auto-attendance taking system via face recognition |Python (OpenCV)|
 |[Regulus](https://github.com/cs161-students/sp24-proj2-maria-michelle )| Secure file sharing system via cryptography |Go|
 |[Healium](https://github.com/mariaxu1019/Healium)|On-chain hospital billing app |Javascript, Solidity, HTML, CSS|
-|[Interactive Aquarium](https://github.com/mariaxu1019/art173_final)| Gesture-based interactive aquarium with real-time response to movement |Javascript (Mediapipe, Toxiclibs)|
+|[Interactive Aquarium](https://github.com/mariaxu1019/aquarium)| Gesture-based interactive aquarium with real-time response to movement |Javascript (Mediapipe, Toxiclibs)|
 
 
 # 💻 Tech Stack:
