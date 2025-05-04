@@ -7,7 +7,7 @@ I'm an EECS student at UC Berkeley interested in building intelligent, scalable 
 # 📁 Repos 
 |Repository|Description|Language|
 |--|-------------------|--|
-|[PDF Q&A Chrome Extension](https://github.com/mariaxu1019/q-aTool)| AI-powered Chrome extension for querying PDFs with embeddings |FastAPI, LangChain, Qdrant, Python, Javascript|
+|[PDF Q&A Chrome Extension](https://github.com/mariaxu1019/q-aTool)| AI-powered Chrome extension for querying PDFs with embeddings |Python (FastAPI, LangChain, Qdrant), Javascript|
 |[Smart Attendance](https://github.com/mariaxu1019/smartAttendance)| Auto-attendance taking system via face recognition |Python (OpenCV)|
 |[Regulus](https://github.com/mariaxu1019/regulus)| Secure file sharing system via cryptography |Go|
 |[Linux Debugger](https://github.com/mariaxu1019/linuxDebugger)| Linux debugger with command-line interface |C++|
